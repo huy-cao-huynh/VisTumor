@@ -10,4 +10,4 @@ VisTumor is a deep learning project for detecting cancer in histopathology image
 * PyTorch for training and evaluation
 * OpenCV for patch extraction and image preprocessing
 * torchvision for data augmentation and normalization
-* Grad-CAM++
+* Grad-CAM++ and saliency mapping for interpretability
